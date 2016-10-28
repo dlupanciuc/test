@@ -11,7 +11,7 @@
     tools:context="com.example.tsd020.test.MainActivity">
 
     <TextView
-        android:text="Hello Test!"
+        android:text="Hello World!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
